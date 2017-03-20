@@ -10,7 +10,7 @@ body {
   min-width: 20em;
   margin: auto;
   padding: 0 1em 0 1em;
-  color: #3a1200;
+  color: #300;
   font-family: "Goudy Old Style", Baskerville;
 }
 
@@ -92,8 +92,8 @@ identified by menu title */
 nav {
   margin: auto;
   text-align: center;
-  border-top: .05em solid #f9c05c;
-  border-bottom: .05em solid #f9c05c;
+  border-top: .05em solid #c96;
+  border-bottom: .05em solid #c96;
   padding: 1em;
   color: #000;
 }
@@ -134,7 +134,7 @@ img {
 }
 
 .text a {
-  color: #f9c05c; /*light pink*/
+  color: #fcf; /*light pink*/
 }
 
 .text a:hover {
