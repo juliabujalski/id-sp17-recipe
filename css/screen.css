@@ -11,7 +11,7 @@ body {
   margin: auto;
   padding: 0 1em 0 1em;
   color: #300;
-  font-family: "Goudy Old Style", Baskerville;
+  font-family: "Goudy Old Style", Baskerville, serif;
 }
 
 /* Able to establish columns for larger screen sizes*/
@@ -40,7 +40,7 @@ header {
   width: 50%;
   text-align: center;
   margin: auto;
-  padding: 0 2cm .5cm 2cm;
+  padding: 0 4.7em 1.2em 4.7em;
 }
 
 /* looks at description list within header */
