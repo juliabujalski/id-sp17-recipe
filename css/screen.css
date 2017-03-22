@@ -105,6 +105,10 @@ nav a {
   word-spacing: 5em;
 }
 
+.link {
+  padding: 0 1em 0 1em;
+}
+
 /* Entire body text styling i.e. directions and ingredients */
 .text {
   padding: 0em 0em 2em 0em;
