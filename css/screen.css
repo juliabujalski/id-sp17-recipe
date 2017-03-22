@@ -138,6 +138,10 @@ img {
   color: #fcf; /*light pink*/
 }
 
+.text a:link {
+  color: #fcf;
+}
+
 .text a:hover {
   color: #f99;/*tan*/
 }
